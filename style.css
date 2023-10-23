@@ -328,6 +328,10 @@ span {
     color: var(--second-bg-color);
 }
 
+section.contact#contact {
+    margin-top: 3rem;
+}
+
 .contact h2 {
     margin-bottom: 3rem;
 }
